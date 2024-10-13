@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Sigh (singh)
 - 👀 I’m interested in AI development,making codes as easy as possible.
-- 🌱 I’m currently learning University of Delhi(CS)
+- 🌱 I’m currently learning Computer Science engeenering from SCE(Shershah College of Engeenering) Bihar Engeenering
 - 💞️ I’m looking to collaborate on anything
 - 📫 My email address is Shubhamsingh2005india@gmail.com
 - 😄 Pronouns: He
